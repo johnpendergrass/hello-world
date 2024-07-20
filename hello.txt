@@ -1,1 +1,7 @@
 Hello world
+hi john
+
+https://johnpendergrass:MG100mfw@github.com/johnpendergrass/hello-world.git
+
+git remote set-url origin https://<username>:<token>@github.com/<username>/<repository>.git
+git remote set-url origin https://johnpendergrass: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@github.com/johnpendergrass/hello-world.git
